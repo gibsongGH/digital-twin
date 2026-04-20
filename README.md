@@ -47,17 +47,17 @@ This project reflects how I think about AI engineering:
 
 ## Running locally
 
-git clone <your-repo-url>
-cd digital-twin
-python -m venv venv
-venv\Scripts\activate   # Windows
-pip install -r requirements.txt
+git clone <your-repo-url>  
+cd digital-twin  
+python -m venv venv  
+venv\Scripts\activate   # Windows  
+pip install -r requirements.txt  
 
-Create a .env file:
-OPENAI_API_KEY=your_key_here
-OPENAI_PROJECT_ID=your_project_id
+Create a .env file:  
+OPENAI_API_KEY=your_key_here  
+OPENAI_PROJECT_ID=your_project_id  
 
-Run the app:
+Run the app:  
 python app.py
 
 ## Project notes
