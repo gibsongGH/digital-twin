@@ -1,3 +1,5 @@
+![Digital Twin Demo](Digital_Twin.png)
+
 # Greg's Digital Twin
 > Live demo available on Hugging Face Spaces:  [Digital Twin](https://huggingface.co/spaces/gibsongHF/digital-twin)
 
